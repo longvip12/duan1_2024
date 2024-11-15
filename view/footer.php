@@ -40,14 +40,14 @@
             <div class="col-lg-3 col-md-6">
             <h4 class="text-light mb-4">Address</h4>
             <p>
-                <i class="fa fa-map-marker-alt me-3"></i>123  Le Van Viet Street, dictrict 9, Ho Chi minh city
+                <i class="fa fa-map-marker-alt me-3"></i>Số 13 Trịnh Văn Bô - Nam Từ Liêm - Hà Nội
             </p>
             <p><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
             <p><i class="fa fa-envelope me-3"></i>info@example.com</p>
             </div>
             <div class="col-lg-3 col-md-6">
             <h4 class="text-light mb-4">Quick Links</h4>
-            <a class="btn btn-link" href="index.html">Home</a>
+            <a class="btn btn-link" href="index.php">Home</a>
             <a class="btn btn-link" href="product.html">Products</a>
             <a class="btn btn-link" href="contact.html">About Us</a>
             <!-- <a class="btn btn-link" href="">Our Services</a>

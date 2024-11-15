@@ -3,7 +3,7 @@
       <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="w-100" src="img/bg1.webp" alt="Image" />
+            <img class="w-100" src="view/img/bg1.webp" alt="Image" />
             <div class="carousel-caption">
               <div class="container">
                 <div class="row justify-content-start">
@@ -19,7 +19,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img class="w-100" src="img/bg2.webp" alt="Image" />
+            <img class="w-100" src="view/img/bg2.webp" alt="Image" />
             <div class="carousel-caption">
               <div class="container">
                 <div class="row justify-content-start">
@@ -35,7 +35,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img class="w-100" src="img/bg3.webp" alt="Image" />
+            <img class="w-100" src="view/img/bg3.webp" alt="Image" />
             <div class="carousel-caption">
               <div class="container">
                 <div class="row justify-content-start">
@@ -51,7 +51,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img class="w-100" src="img/bg7.webp" alt="Image" />
+            <img class="w-100" src="view/img/bg7.webp" alt="Image" />
             <div class="carousel-caption">
               <div class="container">
                 <div class="row justify-content-start">
@@ -97,7 +97,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img position-relative overflow-hidden  pe-0">
-                        <img class="img-fluid w-100" src="img/Cosmetics Shops.png">
+                        <img class="img-fluid w-100" src="view/img/Cosmetics Shops.png">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -157,7 +157,7 @@
           </div>
           <div class="row g-4">
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-              <img class="img-fluid" src="img/f6.webp" alt="" />
+              <img class="img-fluid" src="view/img/f6.webp" alt="" />
               <div class="bg-light p-4">
                 <a class="d-block h5 lh-base mb-4" href=""
                   >Từ Điển Sống Khỏe - Wellness</a
@@ -174,7 +174,7 @@
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-              <img class="img-fluid" src="img/f2.webp" alt="" />
+              <img class="img-fluid" src="view/img/f2.webp" alt="" />
               <div class="bg-light p-4">
                 <a class="d-block h5 lh-base mb-4" href=""
                   >Dưỡng Ẩm Đúng Cách Cho Da</a
@@ -191,7 +191,7 @@
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-              <img class="img-fluid" src="img/f3.webp" alt="" />
+              <img class="img-fluid" src="view/img/f3.webp" alt="" />
               <div class="bg-light p-4">
                 <a class="d-block h5 lh-base mb-4" href=""
                   >Mẹo Làm Đẹp Cho Làn Da</a

@@ -117,7 +117,7 @@
             <p>
               <i class="fa fa-check text-red me-3"></i>Có tiến triển rõ rệt trên da sau 14-28 ngày. Dùng được trong 4 tháng liên tục
             </p>
-            <a class="btn btn-red rounded-pill py-3 px-5 mt-3" href="shopping-cart.html"
+            <a class="btn btn-red rounded-pill py-3 px-5 mt-3" href="index.php?pg=shoppingcart"
               >Buy Now</a
             >
           </div>
@@ -263,7 +263,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -300,7 +300,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -340,7 +340,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -377,7 +377,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -414,7 +414,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -454,7 +454,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -494,7 +494,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -534,7 +534,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -583,7 +583,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -623,7 +623,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -663,7 +663,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -703,7 +703,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -740,7 +740,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -780,7 +780,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -820,7 +820,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -860,7 +860,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -912,7 +912,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -952,7 +952,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -993,7 +993,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -1034,7 +1034,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -1074,7 +1074,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -1114,7 +1114,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -1154,7 +1154,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >
@@ -1194,7 +1194,7 @@
                   </div>
                   <div class="d-flex border-top">
                     <small class="w-50 text-center border-end py-2">
-                      <a class="text-body" href="product-details.html"
+                      <a class="text-body" href="index.php?pg=productdetails"
                         ><i class="fa fa-eye text-red me-2"></i>View
                         detail</a
                       >

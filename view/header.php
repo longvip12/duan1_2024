@@ -38,6 +38,10 @@
 
     <!-- Template Stylesheet -->
     <link href="view/css/style.css" rel="stylesheet" />
+        <!-- Favicon -->
+    <link href="view/img/favicon.ico" rel="icon">
+    <!-- Customized Bootstrap Stylesheet -->
+    <!-- Template Stylesheet -->
   </head>
 
   <body>
@@ -58,7 +62,7 @@
       <div class="top-bar row gx-0 align-items-center d-none d-lg-flex">
         <div class="col-lg-6 px-5 text-start">
           <small
-            ><i class="fa fa-map-marker-alt me-2"></i>123 Lê Văn Việt, Quận 9, Tp.Hồ Chí Minh</small
+            ><i class="fa fa-map-marker-alt me-2"></i>Số 13 Trịnh Văn Bô - Nam Từ Liêm - Hà Nội</small
           >
           <small class="ms-4"
             ><i class="fa fa-envelope me-2"></i>info@example.com</small
@@ -81,7 +85,7 @@
         class="navbar navbar-expand-lg navbar-light py-lg-0 px-lg-5 wow fadeIn"
         data-wow-delay="0.1s"
       >
-        <a href="index.html" class="navbar-brand ms-4 ms-lg-0">
+        <a href="index.php" class="navbar-brand ms-4 ms-lg-0">
           <h1 class="fw-bold text-primary m-0">
             <span class="text-secondary">
             <img class="logo" src="view/img/logo1.jpg" alt="Image" />
@@ -121,10 +125,10 @@
              <div class="menu" id="navar">
               <ul>
                 <li>
-                  <a href="#">Home</a>
+                  <a href="index.php">Home</a>
                 </li>
                 <li class="drop-menu">
-                  <a href="product.html">Products<span>&#11167</span></a>
+                  <a href="index.php?pg=product">Products<span>&#11167</span></a>
                   <div class="sub-menu">
                     <ul>
                       <li>
@@ -162,9 +166,9 @@
                   <a href="#">About us <span>&#11167</span></a>
                   <div class="menu-two">
                     <ul>
-                      <li><a href="contact.html">Liên hệ với chúng tôi</a> </li>
-                      <li><a href="about.html">Về Cosmetics</a></li>
-                      <li><a href="lie.html">Đổi trả sản phẩm</a></li>
+                      <li><a href="index.php?pg=contact">Liên hệ với chúng tôi</a> </li>
+                      <li><a href="index.php?pg=about">Về Cosmetics</a></li>
+                      <li><a href="index.php?pg=lie">Đổi trả sản phẩm</a></li>
                     </ul>
                   </div>
                 </li>
@@ -178,10 +182,10 @@
             </form>
               
             </a>
-            <a class="btn-sm-square bg-white rounded-circle ms-3" href="admin.html">
+            <a class="btn-sm-square bg-white rounded-circle ms-3" href="index.php?pg=dangnhap">
               <small class="fa fa-user text-body"></small>
             </a>
-            <a class="btn-sm-square bg-white rounded-circle ms-3" href="shopping-cart.html">
+            <a class="btn-sm-square bg-white rounded-circle ms-3" href="index.php?pg=shoppingcart">
               <small class="fa fa-shopping-bag text-body"></small>
             </a>
           </div>
